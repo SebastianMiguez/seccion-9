@@ -148,3 +148,6 @@ body{
   flex-wrap: wrap;
   justify-content: center;
 }
+.greeting{
+  text-align: center;
+}
